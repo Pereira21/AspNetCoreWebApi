@@ -1,0 +1,15 @@
+*.dll
+*.so
+src/Mundo.Business/obj/
+src/Mundo.Data/obj/Debug/
+src/Mundo.Data/bin/
+src/Mundo.Data/obj/
+src/Mundo.Business/bin/
+src/Mundo.App/wwwroot/lib/
+solution/.vs/
+.vs/MinhaAppDesafio/v16/
+.vs/MinhaAppDesafio/DesignTimeBuild/
+.vs/MVC_Project/v16/
+.vs/MVC_Project/DesignTimeBuild/
+src/Mundo.Api/obj/
+src/Mundo.Api/bin/
